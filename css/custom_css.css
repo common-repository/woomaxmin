@@ -1,0 +1,52 @@
+body {
+	background-color: #F1F1F1;
+}
+.toplevel_page_womaxmin-settings img {
+	opacity: 1 !important;
+}
+.form-horizontal .control-label {
+	text-align: left;
+}
+.custom_button {
+	font-weight: bold;
+    letter-spacing: 1px;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100% !important;
+}
+.about_box {
+	 background-color: #ffffff;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 10px;
+}
+.about_box h2 {
+	margin: 0px
+}
+.version {
+	padding: 10px 15px 0 0;
+	text-align: right;
+}
+.powered {
+	text-align: center;
+	color: #ed1c32;
+	font-size: 12px;
+}
+.powered a {
+	color: #ed1c32;
+}
+.powered a:hover {
+	text-decoration: none;
+}
+.ads_box {
+	margin: 25px 0;
+	border: 2px solid #fff;
+}
+.note_box {
+	font-size: 12px;
+	margin: 25px 0;
+	text-align: center;
+	color: #777;
+}
